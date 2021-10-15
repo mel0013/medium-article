@@ -23,6 +23,7 @@ h2 {
   font-size: 24px;
   font-style: italic;
   text-decoration: none;
+  transition: 2s;
 }
 
 .banner {
